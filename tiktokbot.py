@@ -6,7 +6,7 @@ import time
 import pandas as pd
 
 # URL du site web fictif
-url = "https://example.com"
+url = "https://tiktok.com"
 
 # Fonction pour liker une vidéo
 def like_video(driver, video_id):
